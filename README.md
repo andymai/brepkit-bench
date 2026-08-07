@@ -14,7 +14,7 @@ fails. A fast-but-wrong result cannot appear in the table.
 ```bash
 git clone https://github.com/andymai/brepkit-bench
 cd brepkit-bench
-npm install
+npm ci
 npm run bench
 ```
 
